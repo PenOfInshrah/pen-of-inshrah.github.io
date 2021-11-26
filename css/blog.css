@@ -196,7 +196,6 @@ nav li{
 
 
 
-
 @media only screen and (max-width:410px)
 {
     .cards{
@@ -210,15 +209,18 @@ nav li{
         font-size: 18px;
     }
     #card2 h1{
+        top:7%;
         font-size: 25px;
     }
-    #card2 p{
+    #card2,#card2 p{
         top:23%;
         font-size: 18px;
+        height:350px;
     }
     .card .btn{
         left:28%;
     }
+
 }
 
 
