@@ -103,7 +103,7 @@ nav li{
     }
 }
 .page{
-    width:60%;
+    width:65%;
     margin:auto;
     margin-top:60px;
     word-break:keep-all;
@@ -140,7 +140,7 @@ nav li{
 @media only screen and (max-width:430px)
 {
     .page{
-        width:73%;
+        width:78%;
     }
     .page h1{
         font-size: 22px;
