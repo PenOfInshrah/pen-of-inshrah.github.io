@@ -10,6 +10,7 @@
     background-image:  linear-gradient(rgba(19, 16, 18, 0.753),rgba(128, 0, 128, 0.342)),url(../images/aaron-burden-xG8IQMqMITM-unsplash.jpg);
     background-repeat: no-repeat;
     background-position:center;
+    background-size:cover;
 }
 body,html{
     width:100%;
