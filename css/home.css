@@ -2,6 +2,16 @@
     margin:0;
     padding:0;
 }
+body,html{
+    width:100%;
+    overflow-x: hidden;
+    background-color:rgba(245, 214, 245, 0.233);
+
+}
+
+
+
+/* header section */
 .header{
     position: relative;
     width:100vw;
@@ -12,12 +22,7 @@
     background-position:center;
     background-size:cover;
 }
-body,html{
-    width:100%;
-    overflow-x: hidden;
-    background-color:rgba(245, 214, 245, 0.233);
 
-}
 nav{
     display: flex;
     width:100%;
@@ -123,6 +128,9 @@ nav li{
         right:10px;
     }
 }
+/* section header closing */
+
+/* section page content */
 .intro{
     width:65%;
     margin:auto;
@@ -164,7 +172,10 @@ nav li{
     }
 }
 
+/* section page content closing  */
 
+
+/* section footer  */
 .footer{
     width:100vw;
     height:500px;
@@ -295,3 +306,4 @@ nav li{
         font-size: 14px;
     }
 }
+/* section footer closing  */
