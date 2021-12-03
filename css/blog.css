@@ -1,24 +1,20 @@
-/*
-* Prefixed by https://autoprefixer.github.io
-* PostCSS: v8.3.6,
-* Autoprefixer: v10.3.1
-* Browsers: last 4 version
-*/
 
 *{
     margin:0;
     padding:0;
-}
-.header{
-    position: relative;
-    width:100vw;
-    height:100px;
 }
 body,html{
     width:100%;
     overflow-x: hidden;
     background-color:rgba(245, 214, 245, 0.233);
 }
+/* section header */
+.header{
+    position: relative;
+    width:100vw;
+    height:100px;
+}
+
 nav{
     display: -webkit-box;
     display: -ms-flexbox;
@@ -123,15 +119,9 @@ nav li{
     }
 }
 
-@media only screen and (max-width:660px)
-{
-    .page h1{
-        font-size: 28px;
-    }
-    .page p{
-        font-size: 19px;
-    }
-}
+/* section header closing */
+
+/* section cards  */
 .cards{
     display:-webkit-box;
     display:-ms-flexbox;
@@ -264,11 +254,9 @@ nav li{
 
 }
 
+/* cards section closing */
 
-
-
-
-
+/* section footer */
 
 .footer{
     width:100vw;
@@ -400,3 +388,4 @@ nav li{
 .footer a{
     font-size: 18px;
 }
+/* section footer closing  */
