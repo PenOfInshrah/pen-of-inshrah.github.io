@@ -225,6 +225,13 @@ nav li{
 }
 
 
+#card3 h1{
+    position:absolute;
+    left:50%;
+    transform:translate(-60%,-60%);
+    margin-top:18px;
+}
+
 
 
 @media only screen and (max-width:450px)
@@ -239,9 +246,13 @@ nav li{
         top:27%;
         font-size: 18px;
     }
-    #card2 h1{
+    
+    #card4 h1,#card2 h1{
         top:7%;
         font-size: 25px;
+    }
+    #card4 h1{
+        left:18%;
     }
     #card2,#card2 p{
         top:23%;
