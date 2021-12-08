@@ -231,7 +231,14 @@ nav li{
     transform:translate(-60%,-60%);
     margin-top:18px;
 }
-
+#card4 h1{
+    position: absolute;
+    top:8%;
+    left:20%;
+    text-align: center;
+    justify-items: center;
+    font-size: 32px;
+}
 
 
 @media only screen and (max-width:450px)
