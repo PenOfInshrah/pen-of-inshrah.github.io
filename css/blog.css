@@ -140,12 +140,12 @@ nav li{
     margin-bottom:80px;
 }
 .card{
-/*     background-image: -webkit-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.5)),to(rgba(0, 0, 0, 0.5))), url(../images/pawel-czerwinski-Z06Aa4W20fY-unsplash.jpg);
+    background-image: -webkit-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.5)),to(rgba(0, 0, 0, 0.5))), url(../images/pawel-czerwinski-Z06Aa4W20fY-unsplash.jpg);
     background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../images/pawel-czerwinski-Z06Aa4W20fY-unsplash.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../images/pawel-czerwinski-Z06Aa4W20fY-unsplash.jpg); */
-     background-image: -webkit-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.5)),to(rgba(0, 0, 0, 0.5))), url(../images/tamanna-rumee-QR56LDZADZ4-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../images/pawel-czerwinski-Z06Aa4W20fY-unsplash.jpg);
+/*      background-image: -webkit-gradient(linear,left top, left bottom,from(rgba(0, 0, 0, 0.5)),to(rgba(0, 0, 0, 0.5))), url(../images/tamanna-rumee-QR56LDZADZ4-unsplash.jpg);
     background-image: -o-linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../images/tamanna-rumee-QR56LDZADZ4-unsplash.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../images/tamanna-rumee-QR56LDZADZ4-unsplash.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../images/tamanna-rumee-QR56LDZADZ4-unsplash.jpg); */
     position: relative;
     margin-left:20px;
     margin-right:20px;
