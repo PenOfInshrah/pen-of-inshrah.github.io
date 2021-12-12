@@ -17,7 +17,7 @@ body,html{
     width:100vw;
     height:100vh;
     /* background-image:  linear-gradient(rgba(15, 4, 12, 0.137),rgba(128, 0, 128, 0.315)),url(aaron-burden-xG8IQMqMITM-unsplash.jpg); */
-    background-image:  linear-gradient(rgba(19, 16, 18, 0.753),rgba(128, 0, 128, 0.342)),url(../images/aaron-burden-xG8IQMqMITM-unsplash.jpg);
+    background-image:  linear-gradient(rgba(19, 16, 18, 0.753),rgba(128, 0, 128, 0.342)),url(../images/typewriter.jpeg);
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
