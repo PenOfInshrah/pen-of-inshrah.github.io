@@ -13,6 +13,7 @@ if($_POST['NovelName']){
 
     // send email
     mail("yasir@vfairs.com","New Order Of Novel".$NovelName, $msg);
+    header('Location: novels.html');
 }
 
 ?>
